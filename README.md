@@ -1,0 +1,3 @@
+# Work Requirement 3 - Intro to Networking
+
+In Module 5, I learned how TCP/IP helps devices communicate across networks and how the socket API allows Python programs to interact with network services. I understood that browsers send HTTP requests to web servers, and servers respond with data through HTTP. One thing that surprised me was how quickly Python can convert a hostname into an IP address using a simple socket function. The most challenging part was understanding how ports and protocols work together during communication. A topic I would like to explore further is how HTTP methods such as GET and POST are used in real web applications.
